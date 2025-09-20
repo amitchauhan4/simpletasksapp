@@ -1,10 +1,10 @@
 # 📱 Simple Tasks App (Flutter)
 
 This is a Flutter application I built during my training.  
-The app allows users to browse courses, view details, and make payments.
+The app allows users to browse Simple Task(Crud), view details with search bar.
 
 ## 🚀 Features
-- List View layout(update,delete,view) & Add page
+- List View layout(update,delete,view) & Add page, search bar.
 - SQFlite use for add/edit/delete task and use local db storage
 - Responsive UI with Riverpod for state management
 
